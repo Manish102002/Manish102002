@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning *ReactJs*
 
-- 👨‍💻 All of my projects are available at [https://manishchoudhary.netlify.app/)
+- 👨‍💻 All of my projects are available at https://manishchoudhary.netlify.app/
 
 - 📫 How to reach me *manishchoudhary100202@gmail.com*
 
